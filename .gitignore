@@ -1,0 +1,25 @@
+# Node
+node_modules/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Builds
+build/
+dist/
+
+# Uploads and temp
+backend/uploads/
+backend/.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+
+
+

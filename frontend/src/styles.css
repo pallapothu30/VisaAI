@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #fafafa; color: #222; }
+button { cursor: pointer; padding: 8px 12px; }
+input[type="file"] { padding: 8px; }
+
+
+
